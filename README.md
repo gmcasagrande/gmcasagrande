@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning systems analysis and development, python & java
 - 📫 You can reach me sending an e-mail casagrande.gui@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm an expert origami maker, passionate about rollerskating, and a very bad lol player 🫠
+- ⚡ Fun fact: I'm an expert origami maker, passionate about rollerskating, and a very bad League of Legends player 🫠
 
 <!---
 dragunball/dragunball is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
