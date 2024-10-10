@@ -1,7 +1,8 @@
 ##
 ##
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&labelcolor=0d1117&size=65&center=true&vCenter=true&width=1000&lines=!!!+UNDER+CONSTRUCTION+!!!)](https://git.io/typing-svg) 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&labelcolor=0d1117&size=60&center=true&vCenter=true&width=1000&lines=!!!+UNDER+CONSTRUCTION+!!!)](https://git.io/typing-svg) 
+##
+##
 - 👋 Hi, I’m @dragunball
 - 🏡 I'm 37 years old (and increasing!) and living in Brazil
 - 👀 I’m interested in working with software development
@@ -9,7 +10,8 @@
 - 📫 You can reach me sending an e-mail casagrande.gui@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an expert origami maker, passionate about rollerskating, and a very bad League of Legends player 🫠
-
+##
+##
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF4500&size=35&center=true&vCenter=true&width=1000&lines=HI,+my+name+is+Gui+Casagrande;I+study+analysis+and+systems+development+at+Senac;Welcome!+:%29)](https://git.io/typing-svg) 
