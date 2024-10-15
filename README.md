@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&labelcolor=0d1117&size=60&center=true&vCenter=true&width=1000&lines=!!!+UNDER+CONSTRUCTION+!!!)](https://git.io/typing-svg) 
 ##
 ##
-- 👋 Hi, I’m @dragunball
+- 👋 Hi, I’m @gmcasagrande
 - 🏡 I'm 37 years old (and increasing!) and living in Brazil
 - 👀 I’m interested in working with software development
 - 🌱 I’m currently learning systems analysis and development, python & java
@@ -17,14 +17,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF4500&size=35&center=true&vCenter=true&width=1000&lines=HI,+my+name+is+Gui+Casagrande;I+study+analysis+and+systems+development+at+Senac;Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dragunball&show_icons=true&count_private=true&hide_border=true&title_color=FF4500&icon_color=FF4500&text_color=c9d1d9&bg_color=0d1117" alt="Gui Casagrande github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragunball&layout=compact&hide_border=true&title_color=FF4500&text_color=FF4500&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gmcasagrande&show_icons=true&count_private=true&hide_border=true&title_color=FF4500&icon_color=FF4500&text_color=c9d1d9&bg_color=0d1117" alt="Gui Casagrande github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmcasagrande&layout=compact&hide_border=true&title_color=FF4500&text_color=FF4500&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dragunball&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gmcasagrande&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dragunball&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gmcasagrande&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
@@ -55,7 +55,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{dragunball}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{gmcasagrande}/count.svg" /></p> 
 <br></div>
 
 
