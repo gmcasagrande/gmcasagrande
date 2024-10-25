@@ -34,19 +34,21 @@
 ### Main skills:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
  
 ### Tools:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![Microsoft_Office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 ### Other Knowledge:
 ![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-0D1117?style=for-the-badge&logo=adobephotoshop&labelColor=0D1117)&nbsp;
 ![Corel](https://img.shields.io/badge/-CorelDRAW-0D1117?style=for-the-badge&logo=coreldraw&labelColor=0D1117)&nbsp;
 ![GoogleDocs](https://img.shields.io/badge/-Google%20Docs-0D1117?style=for-the-badge&logo=googledocs&labelColor=0D1117)&nbsp;
 ![GoogleSheets](https://img.shields.io/badge/-Google%20Sheets-0D1117?style=for-the-badge&logo=googlesheets&labelColor=0D1117)&nbsp;
+![MicrosoftOffice](https://img.shields.io/badge/-Microsoft%20Office-0D1117?style=for-the-badge&logo=microsoftoffice&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
