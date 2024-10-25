@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning systems analysis and development, python, java, C, C# and C++ 😵‍💫
 - 📫 You can reach me sending an e-mail casagrande.gui@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm an expert origami maker, passionate about rollerskating, and a very bad League of Legends player 🫠
+- ⚡ Fun fact: I'm an expert origami maker, passionate about rollerskating, and the worst League of Legends player you'll know 🫠
 ##
 ##
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=120&section=header"/>
