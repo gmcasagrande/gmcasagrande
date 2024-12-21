@@ -1,6 +1,6 @@
 ##
 ##
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&labelcolor=0d1117&size=60&center=true&vCenter=true&width=1000&lines=!!!+UNDER+CONSTRUCTION+!!!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&labelcolor=0d1117&size=60&center=true&vCenter=true&width=1000&lines=UNDER+CONSTRUCTION)](https://git.io/typing-svg) 
 ##
 ##
 - 👋 Hi, I’m @gmcasagrande
